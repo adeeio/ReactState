@@ -47,4 +47,12 @@ body {
   padding: 10px;
 }
 
+.Counter1 {
+  background: #f5f5f5;
+}
+
+.Counter1 div.theDiv {
+  background: black;
+}
+
 /*# sourceMappingURL=style.css.map */
